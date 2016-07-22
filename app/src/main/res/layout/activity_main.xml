@@ -1,0 +1,16 @@
+<com.zmt.dropdownmenu.DropDownMenu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/dropDownMenu"
+    app:ddmenuTextSize="13sp"
+    app:ddtextUnselectedColor="@color/color_111111"
+    app:ddtextSelectedColor="@color/color_7B1FA2"
+    app:dddividerColor="#dddddd"
+    app:ddunderlineColor="#dddddd"
+    app:ddmenuSelectedIcon="@mipmap/drop_down_selected_icon"
+    app:ddmenuUnselectedIcon="@mipmap/drop_down_unselected_icon"
+    app:ddmenuBackgroundColor="#dddddd"
+    app:ddmaskColor="#aaaaaa"/>
+
+
